@@ -4,10 +4,11 @@ This project contains only basic concepts such as component,modules,services,int
 modules has components, components makes use of services.
 Directives change or manipulate dom structure of a component
 
-ng new hello-world
-ng serve
-ng g c componen-name
-ng g s service-name
+1. ng new hello-world
+2. ng serve
+3. ng g c component-name
+4. ng g s service-name
+
 -------------------------------------------------------------------
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
 
