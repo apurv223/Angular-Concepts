@@ -3,6 +3,9 @@
 This project contains only basic concepts such as component,modules,services,interpolation,directives(*ngFor),dependency injection.
 modules has components, components makes use of services.
 Directives change or manipulate dom structure of a component
+
+ng new hello-world
+ng serve
 ng g c componen-name
 ng g s service-name
 -------------------------------------------------------------------
