@@ -1,5 +1,11 @@
 # HelloWorld
-
+-------------------------------------------------------------------
+This project contains only basic concepts such as component,modules,services,interpolation,directives(*ngFor),dependency injection.
+modules has components, components makes use of services.
+Directives change or manipulate dom structure of a component
+ng g c componen-name
+ng g s service-name
+-------------------------------------------------------------------
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
 
 ## Development server
@@ -25,3 +31,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
